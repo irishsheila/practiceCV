@@ -1,3 +1,3 @@
 ## practiceCV
 
-#Learning some basic html
+Learning some basic html
